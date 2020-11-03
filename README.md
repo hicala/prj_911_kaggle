@@ -3,7 +3,7 @@
 
 In this research I am analyzing the 911 call dataset.
 
-Tools: python, numpy, seaborn, matplotlib, pyplot
+Tools: Python, Numpy, Seaborn, Matplotlib, Pyplot
 
 Data Source: [Kaggle](https://www.kaggle.com/mchirico/montcoalert). 
 
