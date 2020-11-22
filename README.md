@@ -71,7 +71,6 @@ df.head()
 
 
 
-
 <div>
 <table border="1" class="dataframe">
   <thead>
